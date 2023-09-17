@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# About me
+
+- Name: Aleksandr
+- Email: [alex.sad.468@gmail.com](mailto:alex.sad.468@gmail.com)
+- Software engineer | 🏴‍☠️
+
 <!--
 **AlexanderBS468/alexanderbs468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
